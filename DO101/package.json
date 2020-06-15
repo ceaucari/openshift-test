@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ceaucari/openshift-test/issues"
   },
-  "homepage": "https://github.com/ceaucari/openshift-test#readme"
+  "homepage": "https://github.com/ceaucari/openshift-test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
